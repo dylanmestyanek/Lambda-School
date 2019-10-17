@@ -61,3 +61,21 @@
 [submodule "Week 06/react-american-football-scoreboard"]
 	path = Week 06/react-american-football-scoreboard
 	url = https://github.com/dylanmestyanek/react-american-football-scoreboard.git
+[submodule "Week 07/React-Router-Apple-Nav"]
+	path = Week 07/React-Router-Apple-Nav
+	url = https://github.com/dylanmestyanek/React-Router-Apple-Nav.git
+[submodule "Week 07/React-Router-Basic-Nav"]
+	path = Week 07/React-Router-Basic-Nav
+	url = https://github.com/dylanmestyanek/React-Router-Basic-Nav.git
+[submodule "Week 07/React-Router-Movies"]
+	path = Week 07/React-Router-Movies
+	url = https://github.com/dylanmestyanek/React-Router-Movies.git
+[submodule "Week 07/User-Onboarding"]
+	path = Week 07/User-Onboarding
+	url = https://github.com/dylanmestyanek/User-Onboarding.git
+[submodule "Week 07/team-builder"]
+	path = Week 07/team-builder
+	url = https://github.com/dylanmestyanek/team-builder.git
+[submodule "Week 07/Sprint-Challenge-Single-Page-Apps"]
+	path = Week 07/Sprint-Challenge-Single-Page-Apps
+	url = https://github.com/dylanmestyanek/Sprint-Challenge-Single-Page-Apps.git

@@ -97,3 +97,18 @@
 [submodule "Week 09/dark-mode"]
 	path = Week 09/dark-mode
 	url = https://github.com/dylanmestyanek/dark-mode.git
+[submodule "Week 10/Car-Sales"]
+	path = Week 10/Car-Sales
+	url = https://github.com/dylanmestyanek/Car-Sales.git
+[submodule "Week 10/React-Redux-App"]
+	path = Week 10/React-Redux-App
+	url = https://github.com/dylanmestyanek/React-Redux-App.git
+[submodule "Week 10/Sprint-Challenge-State-Management-Smurfs"]
+	path = Week 10/Sprint-Challenge-State-Management-Smurfs
+	url = https://github.com/dylanmestyanek/Sprint-Challenge-State-Management-Smurfs.git
+[submodule "Week 10/react-shopping-cart"]
+	path = Week 10/react-shopping-cart
+	url = https://github.com/dylanmestyanek/react-shopping-cart.git
+[submodule "Week 10/reducer-todo"]
+	path = Week 10/reducer-todo
+	url = https://github.com/dylanmestyanek/reducer-todo.git

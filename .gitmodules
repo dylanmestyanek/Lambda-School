@@ -79,3 +79,21 @@
 [submodule "Week 07/Sprint-Challenge-Single-Page-Apps"]
 	path = Week 07/Sprint-Challenge-Single-Page-Apps
 	url = https://github.com/dylanmestyanek/Sprint-Challenge-Single-Page-Apps.git
+[submodule "Week 09/React-Github-User-Card"]
+	path = Week 09/React-Github-User-Card
+	url = https://github.com/dylanmestyanek/React-Github-User-Card.git
+[submodule "Week 09/React-Sorting-Hat"]
+	path = Week 09/React-Sorting-Hat
+	url = https://github.com/dylanmestyanek/React-Sorting-Hat.git
+[submodule "Week 09/React-Todo"]
+	path = Week 09/React-Todo
+	url = https://github.com/dylanmestyanek/React-Todo.git
+[submodule "Week 09/Sprint-Challenge-Advanced-React"]
+	path = Week 09/Sprint-Challenge-Advanced-React
+	url = https://github.com/dylanmestyanek/Sprint-Challenge-Advanced-React.git
+[submodule "Week 09/Web-Application-Testing"]
+	path = Week 09/Web-Application-Testing
+	url = https://github.com/dylanmestyanek/Web-Application-Testing.git
+[submodule "Week 09/dark-mode"]
+	path = Week 09/dark-mode
+	url = https://github.com/dylanmestyanek/dark-mode.git

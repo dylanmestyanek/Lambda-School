@@ -1,0 +1,28 @@
+html {
+    font-size: 62.5%;
+    background: url('../home-page-images/blurred-html-background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    width: 80%;
+    max-width: 1300px;
+    margin: 0 auto;
+    margin-top: 60px;
+
+    @media @smallDesktop {
+        margin-top: 0;
+        width: 100%;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: @titleFont;
+}
+
+p {
+    font-family: @plainTextFont;
+    line-height: 1.6;
+}

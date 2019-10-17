@@ -1,0 +1,34 @@
+.centerContent(@justify, @align, @direction){
+    display: flex;
+    justify-content: @justify;
+    align-items: @align;
+    flex-direction: @direction;
+}
+
+// Added class in JS for image slide-in AND fade-in effect, when scrolling
+.fade-in {
+    opacity: 1 !important;
+    transform: translate(0px) !important;
+    transition: all .7s;
+}
+
+// Added class in JS for image fade-in effect, when scrolling
+.fade-in-mobile {
+    opacity: 1 !important;
+    transition: all .5s;
+}
+
+@keyframes homeLinkSlide {
+    from {transform: translateX(200px); opacity: 0};
+    to {transform: translateX(0px); opacity: 1};
+}
+
+@keyframes aboutLinkSlide {
+    from {transform: translateX(100px); opacity: 0};
+    to {transform: translateX(0px); opacity: 1};
+}
+
+@keyframes signupLinkFade {
+    from {opacity: 0};
+    to {opacity: 1};
+}

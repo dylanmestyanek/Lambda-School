@@ -1,0 +1,50 @@
+footer {
+    .centerContent(center, center, column);
+    width: 100%;
+    max-width: 1300px;
+    background: @deepGreen;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    padding-bottom: 20px;
+
+    .bottom-nav-bar{
+        .centerContent(space-around, center, row);
+        width: 40%;
+        margin: 12px 0;
+
+        @media @tablet {
+            width: 100%;
+        }
+
+        a {
+            text-decoration: none;
+            font-size: 1.6rem;
+            font-family: @plainTextFont;
+            color: black;
+            transition: all .3s;
+            text-align: center;
+    
+            @media @tablet {
+                width: 100%;    
+            }
+
+            &:hover {
+                color: @fadedWhite;
+            }
+        } // a
+    } // .bottom-nav-bar
+    
+    span {
+        font-family: @plainTextFont;
+
+        a {
+            text-decoration: none;
+            color: black;
+            transition: all .3s;
+
+            &:hover {
+                color: white;
+            }
+        } // a
+    } // span
+} // footer

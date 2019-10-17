@@ -1,0 +1,255 @@
+// ========== Our Mission Section ========== //
+.our-mission-section {
+    .centerContent(center, center, column);
+    padding-bottom: 10px;    
+    width: 100%;
+    height: 650px;
+    background-image: linear-gradient(@fadedWhite, @midGreen, @lightBlue);
+
+    @media @tablet {
+        height: 1100px;        
+    }
+
+    h2 {
+        font-size: 3.4rem;
+        letter-spacing: 8px;
+        background: @white;
+        padding: 6px 20px;
+        border-radius: 5px;
+        box-shadow: 5px 5px 10px 0px @fadedBlack;
+    }
+
+    .mission-container{
+        .centerContent(space-evenly, center, row);
+        padding-top: 40px;
+
+        @media @tablet {
+            .centerContent(center, center, column-reverse);
+        }    
+
+        .mission-text-container {
+            width: 40%;
+            background: white;
+            padding: 10px 20px;
+            border: 0px solid @deepGreen;
+            border-left-width: 5px;
+            border-radius: 5px;
+            box-shadow: 5px 5px 10px 0px @fadedBlack;
+            text-align: justify;
+    
+            @media @tablet {
+                margin-top: 50px;
+                width: 70%;
+            }        
+
+            h3 {
+                font-size: 3.0rem;
+            }
+        
+            p {
+                font-size: 1.8rem;
+            }
+        } // .mission-text-container
+        
+        .mission-img {
+            width: 30%;
+            border-radius: 5px;
+            box-shadow: 5px 5px 10px 0px @fadedBlack;
+            opacity: 0; 
+            transform: translateX(300px);
+   
+            @media @tablet {
+                transform: translateX(0);
+                width: 40%;
+            }
+
+            @media @phone {
+                width: 60%;
+            }
+        } //.mission-img
+    } // .mission-container
+} // .our-mission-section
+
+// ========== Benefits Section ========== //
+.benefits-section {
+    .centerContent(center, center, column);
+    padding-bottom: 10px;
+    width: 100%;
+    height: 650px;
+    background-image: linear-gradient(@lightBlue, @lightestGreen);    
+
+    @media @tablet {
+        height: 1100px;
+    }
+
+    h2 {
+        font-size: 3.4rem;
+        letter-spacing: 8px;
+        background: @midBlue;
+        padding: 6px 20px;
+        border-radius: 5px;
+        box-shadow: 5px 5px 10px 0px @fadedBlack;
+
+        @media @tablet {
+            width: 70%;
+            text-align: center;
+        }
+    } // h2
+
+    .benefits-container{
+        .centerContent(space-evenly, center, row-reverse);
+        margin-top: 40px;
+
+        @media @tablet {
+            .centerContent(center, center, column-reverse);
+        }    
+
+        .benefits-text-container {
+            width: 40%;
+            background: @midBlue;
+            padding: 10px 20px;
+            border: 0px solid @deepBlue;
+            border-left-width: 5px;
+            border-radius: 5px;
+            box-shadow: 5px 5px 10px 0px @fadedBlack;
+            text-align: justify;
+
+            @media @tablet {
+                margin-top: 50px;
+                width: 70%;
+                padding-bottom: 0;
+            }
+    
+            h3 {
+                font-size: 3.0rem;
+            }
+        
+            p {
+                font-size: 1.8rem;
+            }
+        } // .benefits-text-container
+        
+        .benefits-img {
+            width: 30%;
+            border-radius: 5px;
+            box-shadow: 5px 5px 10px 0px @fadedBlack;
+            transform: translateX(-300px);
+            opacity: 0;
+
+            @media @tablet {
+                width: 40%;
+                transform: translateX(0);
+            }
+
+            @media @phone {
+                width: 60%;
+            }
+        } // .benefits-img
+    } // .benefits-container
+} // .benefits-section
+
+// ========== Process Section ========== //
+.process-section {
+    .centerContent(center, center, column);
+    padding-bottom: 10px;
+    width: 100%;
+    height: 650px;
+    background: @lightestGreen;
+    padding-bottom: 50px;
+
+    @media @tablet {
+        height: 1200px;
+    }
+
+    h2 {
+        font-size: 3.4rem;
+        letter-spacing: 8px;
+        background: @lightGreen;
+        padding: 6px 20px;
+        border-radius: 5px;
+        box-shadow: 5px 5px 10px 0px @fadedBlack;
+
+        @media @tablet {
+            width: 70%;
+            text-align: center;
+        }
+    } // h2
+
+    .process-container{
+        .centerContent(space-evenly, center, row);
+        margin-top: 40px;
+
+        @media @tablet {
+            .centerContent(center, center, column-reverse);
+        }
+
+        .process-text-container {
+            width: 40%;
+            background: @lightGreen;
+            padding: 10px 20px;
+            border: 0px solid @deepGreen;
+            border-left-width: 5px;
+            border-radius: 5px;
+            box-shadow: 5px 5px 10px 0px @fadedBlack;
+            text-align: justify;
+
+            @media @tablet {
+                margin-top: 50px;
+                width: 70%;
+            }
+
+            span {
+                opacity: 0;
+                transition: all .3s;
+                font-size: .2rem;
+            }
+    
+            .number-grow {
+                opacity: 1;
+                font-size: 3.0rem;
+            }
+
+            h3 {
+                font-size: 3.0rem;
+            }
+        
+            p {
+                font-size: 1.8rem;
+            }
+
+            .disclaimer {
+                font-size: 1.4rem !important;
+            }
+
+            ol {
+
+                li {
+                    font-family: @plainTextFont;
+                    line-height: 1.4;
+                    font-size: 1.7rem;
+                    margin-bottom: 10px;
+                }
+            } // ol
+
+        } // .process-text-container
+        
+        .process-img {
+            width: 30%;
+            border-radius: 5px;
+            box-shadow: 5px 5px 10px 0px @fadedBlack;
+            transform: translateX(300px);
+            opacity: 0;
+            
+            @media @tablet {
+                width: 40%;
+                transform: translateX(0);
+            }
+
+            @media @phone {
+                width: 60%;
+            }
+        } // .process-img
+    } // .process-container
+} // .process-section
+
+

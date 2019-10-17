@@ -118,3 +118,6 @@
 [submodule "Week 11/webtesting-iii-challenge"]
 	path = Week 11/webtesting-iii-challenge
 	url = https://github.com/dylanmestyanek/webtesting-iii-challenge.git
+[submodule "Week 04 (Insuline Diabetes Manager)/Web-UI"]
+	path = Week 04 (Insuline Diabetes Manager)/Web-UI
+	url = https://github.com/Build-Week-Diabetes-Manager/Web-UI.git

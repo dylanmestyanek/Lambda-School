@@ -49,3 +49,15 @@
 [submodule "Week 05/Sprint-Challenge-Applied-Javascript"]
 	path = Week 05/Sprint-Challenge-Applied-Javascript
 	url = https://github.com/dylanmestyanek/Sprint-Challenge-Applied-Javascript.git
+[submodule "Week 06/Sprint-Challenge-React-Wars"]
+	path = Week 06/Sprint-Challenge-React-Wars
+	url = https://github.com/dylanmestyanek/Sprint-Challenge-React-Wars.git
+[submodule "Week 06/lambda-calculator"]
+	path = Week 06/lambda-calculator
+	url = https://github.com/dylanmestyanek/lambda-calculator.git
+[submodule "Week 06/nasa-photo-of-the-day"]
+	path = Week 06/nasa-photo-of-the-day
+	url = https://github.com/dylanmestyanek/nasa-photo-of-the-day.git
+[submodule "Week 06/react-american-football-scoreboard"]
+	path = Week 06/react-american-football-scoreboard
+	url = https://github.com/dylanmestyanek/react-american-football-scoreboard.git

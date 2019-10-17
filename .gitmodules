@@ -19,3 +19,18 @@
 [submodule "Week 01/UI-III-Flexbox"]
 	path = Week 01/UI-III-Flexbox
 	url = https://github.com/dylanmestyanek/UI-III-Flexbox.git
+[submodule "Week 03/JavaScript-I"]
+	path = Week 03/JavaScript-I
+	url = https://github.com/dylanmestyanek/JavaScript-I.git
+[submodule "Week 03/JavaScript-II"]
+	path = Week 03/JavaScript-II
+	url = https://github.com/dylanmestyanek/JavaScript-II.git
+[submodule "Week 03/JavaScript-III"]
+	path = Week 03/JavaScript-III
+	url = https://github.com/dylanmestyanek/JavaScript-III.git
+[submodule "Week 03/JavaScript-IV"]
+	path = Week 03/JavaScript-IV
+	url = https://github.com/dylanmestyanek/JavaScript-IV.git
+[submodule "Week 03/Sprint-Challenge--JavaScript"]
+	path = Week 03/Sprint-Challenge--JavaScript
+	url = https://github.com/dylanmestyanek/Sprint-Challenge--JavaScript.git

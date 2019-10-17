@@ -1,0 +1,93 @@
+nav{
+    position:fixed;
+    top:0;
+    left:0;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    width:100%;
+    height:75px;
+    font-size:1.4rem;
+    background-color:#353d45;
+    border-bottom: 3px solid $sss_green;
+    z-index: 900;
+    
+    .navigation-links{
+        width:400px;
+        display:flex;
+        justify-content: center;
+
+        a{
+            display:flex;
+            align-items:center;
+            justify-content: center;
+            font-size:1.6rem;
+            text-decoration:none;
+            color:#fff;
+            height:72px;
+            width:220px;
+            background-color:#353d45;
+            border-right:1px solid #1114;
+            border-top:3px solid #353d45;
+            
+            
+            &:hover{
+                background-color: #3e3E4eaa;
+                // border-top:3px solid #555a;
+                border-top: 3px solid $sss_green;
+            }
+        }
+
+        button{
+            font-size:1.6rem;
+            font-family: 'Montserrat', sans-serif;
+            border:none;
+            display:flex;
+            cursor: pointer;
+            align-items:center;
+            justify-content: center;
+            text-decoration:none;
+            color:#fff;
+            height:72px;
+            width:220px;
+            background-color:#353d45;
+            border-right:1px solid #1114;
+            border-top:3px solid #353d45;
+            
+            
+            &:hover{
+                background-color: #3e3E4eaa;
+                // border-top:3px solid #555a;
+                border-top: 3px solid $sss_green;
+            }
+        }
+
+        a:first-child{
+            border-left:1px solid #1114;   
+        }
+
+        a:last-child{
+            border-right:none;
+        }
+    }
+    
+    a{
+        cursor: pointer;
+        text-decoration:none;
+
+    .logo{
+        width: 200px;
+        display:flex;
+        align-items:center;
+        justify-content: space-evenly;
+        font-size: 4.2rem; 
+        color:$sss_green;
+
+        h2{
+            font-size:3rem;
+            color:#fff;
+            
+        }
+    }
+}
+}

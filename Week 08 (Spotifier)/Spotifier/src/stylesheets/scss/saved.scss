@@ -1,0 +1,80 @@
+.saved-wrapper{
+    height:100vh;
+    min-height:800px;
+    padding-top:75px;
+    background: #000E;
+    color:#fff;
+}
+
+.songs-saved-title{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    height:50px;
+    background-color:#353d45;
+    border-bottom:2px solid #fff2;
+
+    h1{
+        font-size: 2rem;
+    }
+}
+
+.songs-wrapper{
+    height:90%;
+    min-width:1580px;
+    overflow-y: scroll;
+}
+
+.song{
+    display:flex;
+    align-items:center;
+    width:100%;
+    padding:0 10px;
+    height: 50px;
+    border-bottom:1px solid #fff2;
+    
+    .artist{
+        width:200px;
+        margin-left:20px;
+    }
+
+    .track{
+        width:550px;
+    }
+
+    .duration{
+        width:200px;
+    }
+
+    .button-container{
+        margin:0 auto;
+        .remove-track{
+
+            &:hover{
+                background:red;
+            }
+            
+        }
+        button{
+            width:200px;
+            height:40px;
+            background-color:#353d45;
+            border: 1px solid #353d60aa;
+            color:white;
+            margin:0 5px;
+            border-radius:5px;
+
+            
+
+            &:hover{
+                background: $sss_green;
+            }
+        }
+    }
+
+    
+
+    &:hover {
+        background: #353d6055;
+    }
+}

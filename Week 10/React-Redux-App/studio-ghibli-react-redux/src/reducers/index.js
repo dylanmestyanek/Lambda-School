@@ -1,0 +1,1 @@
+export { movieListReducer } from "./movieListReducer" 

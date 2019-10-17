@@ -1,0 +1,32 @@
+.nav-link-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: flex-end;
+  background: rgba(0, 0, 0, .8);
+  height: 30px;
+  padding-top: 5px;
+}
+
+.nav-link-container a {
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+}
+
+.apple-products {
+  display: flex;
+  justify-content: space-evenly;
+  background: #fff;
+}
+
+.apple-products a {
+  text-decoration: none;
+  color: black;
+}
+
+.apple-logo {
+}
+
+.apple-logo img {
+  width: 20px;
+}

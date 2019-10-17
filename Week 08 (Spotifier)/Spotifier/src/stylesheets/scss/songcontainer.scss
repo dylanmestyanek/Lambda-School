@@ -1,0 +1,79 @@
+.song-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        background: #353d45;
+        color: white;
+        width: 45%;
+        height:100%;
+        padding: 20px 30px;
+        line-height: 1.5;
+        
+        h2 {
+            color: $sss_green;
+        }
+
+        hr {
+            width: 100%;
+            background: white;
+            border-style: 1px solid white;
+            margin: 5px 0 15px;
+        }
+
+        .spotify-player{
+            width:100%;
+            margin:10px 0;
+            height:80px;
+        }
+
+        .save-song-btn {
+            background-color: $sss_green;
+            border: none;
+            width: 60%;
+            padding: 8px 15px;
+            font-family: 'Montserrat', sans-serif;
+            transition: ease 500ms;
+            cursor: pointer;
+            margin: 0 auto;
+            &:focus {
+                background-color: $sss_green_light;
+                outline: none;
+            }
+        }
+    } // .song-info
+
+    .song-recommendations {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        background: #353d45;
+        color: white;
+        width: 50%;
+        height: 100%;
+        max-height: 500px;
+        padding: 20px 30px;
+
+        h2 {
+            color: $sss_green;
+        }
+
+        hr {
+            width: 100%;
+            background: white;
+            border-style: 1px solid white;
+            margin: 15px 0 15px;
+        }
+        p {
+            padding: .5rem 0;
+            color: white;
+            cursor: pointer;
+            &:hover {
+                color: whitesmoke;
+            }
+        }
+    }
+
+.song-graph{
+    width: 100%;
+}

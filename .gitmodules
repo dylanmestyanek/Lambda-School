@@ -112,3 +112,9 @@
 [submodule "Week 10/reducer-todo"]
 	path = Week 10/reducer-todo
 	url = https://github.com/dylanmestyanek/reducer-todo.git
+[submodule "Week 11/Auth-Friends"]
+	path = Week 11/Auth-Friends
+	url = https://github.com/dylanmestyanek/Auth-Friends.git
+[submodule "Week 11/webtesting-iii-challenge"]
+	path = Week 11/webtesting-iii-challenge
+	url = https://github.com/dylanmestyanek/webtesting-iii-challenge.git

@@ -1,3 +1,12 @@
 [submodule "Week 02/responsive-web-design-I"]
 	path = Week 02/responsive-web-design-I
 	url = https://github.com/dylanmestyanek/responsive-web-design-I.git
+[submodule "Week 02/Preprocessing-I"]
+	path = Week 02/Preprocessing-I
+	url = https://github.com/dylanmestyanek/Preprocessing-I.git
+[submodule "Week 02/Preprocessing-II"]
+	path = Week 02/Preprocessing-II
+	url = https://github.com/dylanmestyanek/Preprocessing-II.git
+[submodule "Week 02/Sprint-Challenge--Advanced-CSS"]
+	path = Week 02/Sprint-Challenge--Advanced-CSS
+	url = https://github.com/dylanmestyanek/Sprint-Challenge--Advanced-CSS.git

@@ -16,6 +16,3 @@
 [submodule "Week 01/Sprint-Challenge--User-Interface"]
 	path = Week 01/Sprint-Challenge--User-Interface
 	url = https://github.com/dylanmestyanek/Sprint-Challenge--User-Interface.git
-[submodule "Week 01/UI-III-Flexbox"]
-	path = Week 01/UI-III-Flexbox
-	url = https://github.com/dylanmestyanek/UI-III-Flexbox.git

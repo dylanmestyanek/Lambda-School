@@ -10,3 +10,12 @@
 [submodule "Week 02/Sprint-Challenge--Advanced-CSS"]
 	path = Week 02/Sprint-Challenge--Advanced-CSS
 	url = https://github.com/dylanmestyanek/Sprint-Challenge--Advanced-CSS.git
+[submodule "Week 01/User-Interface"]
+	path = Week 01/User-Interface
+	url = https://github.com/dylanmestyanek/User-Interface.git
+[submodule "Week 01/Sprint-Challenge--User-Interface"]
+	path = Week 01/Sprint-Challenge--User-Interface
+	url = https://github.com/dylanmestyanek/Sprint-Challenge--User-Interface.git
+[submodule "Week 01/UI-III-Flexbox"]
+	path = Week 01/UI-III-Flexbox
+	url = https://github.com/dylanmestyanek/UI-III-Flexbox.git

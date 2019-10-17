@@ -34,3 +34,18 @@
 [submodule "Week 03/Sprint-Challenge--JavaScript"]
 	path = Week 03/Sprint-Challenge--JavaScript
 	url = https://github.com/dylanmestyanek/Sprint-Challenge--JavaScript.git
+[submodule "Week 05/DOM-I"]
+	path = Week 05/DOM-I
+	url = https://github.com/dylanmestyanek/DOM-I.git
+[submodule "Week 05/DOM-II"]
+	path = Week 05/DOM-II
+	url = https://github.com/dylanmestyanek/DOM-II.git
+[submodule "Week 05/Newsfeed-Components"]
+	path = Week 05/Newsfeed-Components
+	url = https://github.com/dylanmestyanek/Newsfeed-Components.git
+[submodule "Week 05/github-usercard"]
+	path = Week 05/github-usercard
+	url = https://github.com/dylanmestyanek/github-usercard.git
+[submodule "Week 05/Sprint-Challenge-Applied-Javascript"]
+	path = Week 05/Sprint-Challenge-Applied-Javascript
+	url = https://github.com/dylanmestyanek/Sprint-Challenge-Applied-Javascript.git

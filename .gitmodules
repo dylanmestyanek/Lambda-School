@@ -124,3 +124,6 @@
 [submodule "Week 11/HTTP-Movies-Assignment"]
 	path = Week 11/HTTP-Movies-Assignment
 	url = https://github.com/dylanmestyanek/HTTP-Movies-Assignment.git
+[submodule "Week 11/react-bubbles"]
+	path = Week 11/react-bubbles
+	url = https://github.com/dylanmestyanek/react-bubbles.git

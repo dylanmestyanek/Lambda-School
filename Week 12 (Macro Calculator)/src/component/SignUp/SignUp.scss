@@ -1,0 +1,43 @@
+.sign-up-header {
+    padding-top: 20px;
+}
+
+.sign-up-spacer {
+    height: 40px;
+}
+
+.signup-input { 
+    width: 100%;
+    border-radius: 5px;
+    height: 75px;
+    border-color: white !important;
+
+    p.Mui-error  {
+        margin-top: 10px;
+        text-align: left;
+        letter-spacing: 1px;
+    }
+}
+
+.sign-up-copyright {
+    padding-bottom: 30px;
+}
+
+ul {
+    padding: -20px 0 !important;
+    background: #FEE8BD !important;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #FEE8B4;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #f25c54;
+  }

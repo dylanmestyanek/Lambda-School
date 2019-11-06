@@ -127,3 +127,6 @@
 [submodule "Week 11/react-bubbles"]
 	path = Week 11/react-bubbles
 	url = https://github.com/dylanmestyanek/react-bubbles.git
+[submodule "Week 12/Front-end"]
+	path = Week 12/Front-end
+	url = https://github.com/Build-Week-Macro-Calculators/Front-end.git

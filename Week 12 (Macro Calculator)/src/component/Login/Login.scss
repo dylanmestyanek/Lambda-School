@@ -1,0 +1,95 @@
+.form-container {
+    background: linear-gradient(#f4845f, #FED480);
+    width: 100%;
+    min-height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    
+    h1 {
+        padding-top: -75px;
+        padding-bottom: 50px;
+        font-size: 3.0rem;
+        color: white;
+        text-shadow: 1px 1px 1px black;
+        text-align: center;
+    }
+    
+    p {
+        color: white;
+        margin-top: -50px;
+        width: 100%;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    
+    h2 {
+        color: white;
+        text-shadow: 1px 1px 1px black;
+    }
+    
+    .spacer{
+        height: 140px;
+    }
+    
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+        width: 80%;
+    }
+    
+    .form-input { 
+        width: 70%;
+        border-radius: 5px;
+        height: 65px;
+
+        p {
+            margin-top: 10px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+    }
+    
+    input {
+        border-radius: 5px;
+    }
+
+    button {
+        background: #f4845f;
+        color: white;
+        text-shadow: 1px 1px 1px black;
+        width: 70%;
+        transition: all .3s;
+
+        &:hover {
+            background: #f25c54;
+            color: black;
+            text-shadow: none;
+        }
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        transition: all .3s;
+
+        &:hover {
+            color: #f27059;
+        }
+    }
+
+    .sign-up-link { 
+        margin: 0 auto;
+        text-decoration: none;
+        color: #FEE8BD;
+    }
+
+    .MuiTypography-root {
+        color: white;
+        margin-top: 10px;
+    }
+}

@@ -148,3 +148,9 @@
 [submodule "Week 13/webapi-iv-guided"]
 	path = Week 13/webapi-iv-guided
 	url = https://github.com/dylanmestyanek/webapi-iv-guided.git
+[submodule "Week 14/webdb-i-challenge"]
+	path = Week 14/webdb-i-challenge
+	url = https://github.com/dylanmestyanek/webdb-i-challenge.git
+[submodule "Week 14/webdb-ii-challenge"]
+	path = Week 14/webdb-ii-challenge
+	url = https://github.com/dylanmestyanek/webdb-ii-challenge.git

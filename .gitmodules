@@ -130,3 +130,21 @@
 [submodule "Week 12/Front-end"]
 	path = Week 12/Front-end
 	url = https://github.com/Build-Week-Macro-Calculators/Front-end.git
+[submodule "Week 13/node-api1-project"]
+	path = Week 13/node-api1-project
+	url = https://github.com/dylanmestyanek/node-api1-project.git
+[submodule "Week 13/webapi-challenge"]
+	path = Week 13/webapi-challenge
+	url = https://github.com/dylanmestyanek/webapi-challenge.git
+[submodule "Week 13/webapi-i-challenge"]
+	path = Week 13/webapi-i-challenge
+	url = https://github.com/dylanmestyanek/webapi-i-challenge.git
+[submodule "Week 13/webapi-ii-challenge"]
+	path = Week 13/webapi-ii-challenge
+	url = https://github.com/dylanmestyanek/webapi-ii-challenge.git
+[submodule "Week 13/webapi-iii-guided"]
+	path = Week 13/webapi-iii-guided
+	url = https://github.com/dylanmestyanek/webapi-iii-guided.git
+[submodule "Week 13/webapi-iv-guided"]
+	path = Week 13/webapi-iv-guided
+	url = https://github.com/dylanmestyanek/webapi-iv-guided.git

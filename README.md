@@ -29,3 +29,9 @@ This is a large repository containing *every* project I have worked on during my
 **Week 10** - *Advanced State Management*
 
 **Week 11** - *Advanced Web Applications*
+
+**Week 12** - *Unit 3 Build Week*
+
+**Week 13** - *Build a Web API*
+
+**Week 14** - *Adding Data Persistence*

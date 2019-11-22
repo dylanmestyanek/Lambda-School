@@ -14,7 +14,7 @@ This is a large repository containing *every* project I have worked on during my
 
 **Week 03** - *JavaScript Fundamentals*
 
-**Week 04** - *Unit 1 Build Week*
+**Week 04** - *Unit 1 Build Week (HTML + CSS)*
 
 **Week 05** - *Applied JavaScript*
 
@@ -22,7 +22,7 @@ This is a large repository containing *every* project I have worked on during my
 
 **Week 07** - *Single Page Applications*
 
-**Week 08** - *Unit 2 Build Week*
+**Week 08** - *Unit 2 Build Week (ReactJS)*
 
 **Week 09** - *Advanced React*
 
@@ -30,8 +30,12 @@ This is a large repository containing *every* project I have worked on during my
 
 **Week 11** - *Advanced Web Applications*
 
-**Week 12** - *Unit 3 Build Week*
+**Week 12** - *Unit 3 Build Week (ReactJS + Redux)*
 
 **Week 13** - *Build a Web API*
 
 **Week 14** - *Adding Data Persistence*
+
+**Week 15** - *Authentication and Testing*
+
+**Week 16** - *Unit 4 Build Week (NodeJS)*

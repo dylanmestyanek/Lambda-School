@@ -163,3 +163,15 @@
 [submodule "Week 14/node-db-challenge"]
 	path = Week 14/node-db-challenge
 	url = https://github.com/dylanmestyanek/node-db-challenge.git
+[submodule "Week 15/node-server-testing-challenge"]
+	path = Week 15/node-server-testing-challenge
+	url = https://github.com/dylanmestyanek/node-server-testing-challenge.git
+[submodule "Week 15/Sprint-Challenge-Authentication"]
+	path = Week 15/Sprint-Challenge-Authentication
+	url = https://github.com/dylanmestyanek/Sprint-Challenge-Authentication.git
+[submodule "Week 15/webauth-i-challenge"]
+	path = Week 15/webauth-i-challenge
+	url = https://github.com/dylanmestyanek/webauth-i-challenge.git
+[submodule "Week 15/webauth-iii-challenge"]
+	path = Week 15/webauth-iii-challenge
+	url = https://github.com/dylanmestyanek/webauth-iii-challenge.git

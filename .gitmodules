@@ -178,3 +178,6 @@
 [submodule "Back-end"]
 	path = Back-end
 	url = https://github.com/Build-Week-Weight-Lifiting-Journal/Back-end.git
+[submodule "Week 16 (Weight Lifting Journal)/Back-end"]
+	path = Week 16 (Weight Lifting Journal)/Back-end
+	url = https://github.com/Build-Week-Weight-Lifiting-Journal/Back-end.git

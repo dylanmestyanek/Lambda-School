@@ -160,3 +160,6 @@
 [submodule "Week 14/node-db4-challenge"]
 	path = Week 14/node-db4-challenge
 	url = https://github.com/dylanmestyanek/node-db4-challenge.git
+[submodule "Week 14/node-db-challenge"]
+	path = Week 14/node-db-challenge
+	url = https://github.com/dylanmestyanek/node-db-challenge.git

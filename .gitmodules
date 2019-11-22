@@ -175,3 +175,6 @@
 [submodule "Week 15/webauth-iii-challenge"]
 	path = Week 15/webauth-iii-challenge
 	url = https://github.com/dylanmestyanek/webauth-iii-challenge.git
+[submodule "Back-end"]
+	path = Back-end
+	url = https://github.com/Build-Week-Weight-Lifiting-Journal/Back-end.git

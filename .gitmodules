@@ -187,3 +187,9 @@
 [submodule "Week 17/sauti-databank-be"]
 	path = Week 17/sauti-databank-be
 	url = https://github.com/dylanmestyanek/sauti-databank-be
+[submodule "Week 17 (Sauti Databank)/sauti-databank-fe"]
+	path = Week 17 (Sauti Databank)/sauti-databank-fe
+	url = https://github.com/dylanmestyanek/sauti-databank-fe
+[submodule "Week 17 (Sauti Databank)/sauti-databank-be"]
+	path = Week 17 (Sauti Databank)/sauti-databank-be
+	url = https://github.com/dylanmestyanek/sauti-databank-be

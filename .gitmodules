@@ -196,3 +196,6 @@
 [submodule "Week 25/Intro-Python-I"]
 	path = Week 25/Intro-Python-I
 	url = https://github.com/dylanmestyanek/Intro-Python-I.git
+[submodule "Week 25/Intro-Python-II"]
+	path = Week 25/Intro-Python-II
+	url = https://github.com/dylanmestyanek/Intro-Python-II.git

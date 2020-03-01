@@ -199,3 +199,9 @@
 [submodule "Week 25/Intro-Python-II"]
 	path = Week 25/Intro-Python-II
 	url = https://github.com/dylanmestyanek/Intro-Python-II.git
+[submodule "Week 26/Algorithms"]
+	path = Week 26/Algorithms
+	url = https://github.com/dylanmestyanek/Algorithms.git
+[submodule "Week 26/Sorting"]
+	path = Week 26/Sorting
+	url = https://github.com/dylanmestyanek/Sorting.git

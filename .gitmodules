@@ -217,3 +217,9 @@
 [submodule "Week 27/Sprint-Challenge--Data-Structures-Python"]
 	path = Week 27/Sprint-Challenge--Data-Structures-Python
 	url = https://github.com/dylanmestyanek/Sprint-Challenge--Data-Structures-Python.git
+[submodule "Week 28 (Space Cowboyz)/CS-Build-Week-1"]
+	path = Week 28 (Space Cowboyz)/CS-Build-Week-1
+	url = https://github.com/python-django-unchained/CS-Build-Week-1.git
+[submodule "Week 28 (Space Cowboyz)/space-cowboy--FE"]
+	path = Week 28 (Space Cowboyz)/space-cowboy--FE
+	url = https://github.com/python-django-unchained/space-cowboy--FE.git

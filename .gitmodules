@@ -205,3 +205,6 @@
 [submodule "Week 26/Sorting"]
 	path = Week 26/Sorting
 	url = https://github.com/dylanmestyanek/Sorting.git
+[submodule "Week 26/Sprint-Challenge--Algorithms"]
+	path = Week 26/Sprint-Challenge--Algorithms
+	url = https://github.com/dylanmestyanek/Sprint-Challenge--Algorithms.git

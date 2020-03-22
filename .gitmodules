@@ -223,3 +223,12 @@
 [submodule "Week 28 (Space Cowboyz)/space-cowboy--FE"]
 	path = Week 28 (Space Cowboyz)/space-cowboy--FE
 	url = https://github.com/python-django-unchained/space-cowboy--FE.git
+[submodule "Week 29/Blockchain"]
+	path = Week 29/Blockchain
+	url = https://github.com/dylanmestyanek/Blockchain.git
+[submodule "Week 29/Hash-Tables"]
+	path = Week 29/Hash-Tables
+	url = https://github.com/dylanmestyanek/Hash-Tables.git
+[submodule "Week 29/Sprint-Challenge--Hash-BC"]
+	path = Week 29/Sprint-Challenge--Hash-BC
+	url = https://github.com/dylanmestyanek/Sprint-Challenge--Hash-BC.git

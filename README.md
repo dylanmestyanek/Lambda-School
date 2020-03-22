@@ -1,4 +1,4 @@
-# Lambda-School
+# Lambda School Projects
 
 This is a large repository containing *every* project I have worked on during my time at Lambda School. Each repository is nested as a submodule. 
 

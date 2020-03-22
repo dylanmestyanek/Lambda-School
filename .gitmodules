@@ -208,3 +208,12 @@
 [submodule "Week 26/Sprint-Challenge--Algorithms"]
 	path = Week 26/Sprint-Challenge--Algorithms
 	url = https://github.com/dylanmestyanek/Sprint-Challenge--Algorithms.git
+[submodule "Week 27/Intro-Django"]
+	path = Week 27/Intro-Django
+	url = https://github.com/dylanmestyanek/Intro-Django.git
+[submodule "Week 27/Data-Structures"]
+	path = Week 27/Data-Structures
+	url = https://github.com/dylanmestyanek/Data-Structures.git
+[submodule "Week 27/Sprint-Challenge--Data-Structures-Python"]
+	path = Week 27/Sprint-Challenge--Data-Structures-Python
+	url = https://github.com/dylanmestyanek/Sprint-Challenge--Data-Structures-Python.git

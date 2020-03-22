@@ -232,3 +232,9 @@
 [submodule "Week 29/Sprint-Challenge--Hash-BC"]
 	path = Week 29/Sprint-Challenge--Hash-BC
 	url = https://github.com/dylanmestyanek/Sprint-Challenge--Hash-BC.git
+[submodule "Week 17 - 24 (Sauti Databank)/sauti-databank-be"]
+	path = Week 17 - 24 (Sauti Databank)/sauti-databank-be
+	url = https://github.com/dylanmestyanek/sauti-databank-be.git
+[submodule "Week 17 - 24 (Sauti Databank)/sauti-databank-fe"]
+	path = Week 17 - 24 (Sauti Databank)/sauti-databank-fe
+	url = https://github.com/dylanmestyanek/sauti-databank-fe.git

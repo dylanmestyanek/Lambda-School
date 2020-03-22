@@ -39,3 +39,15 @@ This is a large repository containing *every* project I have worked on during my
 **Week 15** - *Authentication and Testing*
 
 **Week 16** - *Unit 4 Build Week (NodeJS)*
+
+**Week 17 - 24** - *Labs 19 Group Project (Sauti Databank)*
+
+**Week 25** - *Intro to Python and OOP*
+
+**Week 26** - *Algorithms*
+
+**Week 27** - *Data Structures*
+
+**Week 28** - *CS Unit 1 Build Week (Python + Django)*
+
+**Week 29** - *Hash Tables and Blockchain*

@@ -1,6 +1,6 @@
 # Lambda School Projects
 
-This is a large repository containing *every* project I have worked on during my time at Lambda School. Each repository is nested as a submodule. 
+This is a large repository containing *every* project I worked on during my time at Lambda School. Each repository is nested as a submodule. 
 
 **Please Note:** Submodules will link you to the most recent commit - *not* the master branch. If you would like to see the most relevant, and up-to-date version, please ensure to checkout the *'dylan-mestyanek'* branch if you are viewing a project that is not under the "Build Week" or "Labs 19 Group Project" category.
 

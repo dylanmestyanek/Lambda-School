@@ -16,7 +16,7 @@
     "formik": "^1.5.8",
     "formik-material-ui": "^0.0.22",
     "history": "^4.10.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-chartjs-2": "^2.8.0",
